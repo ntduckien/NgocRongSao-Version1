@@ -6,6 +6,8 @@ Project: NgocRongSao
 
 Version: 1.0
 
+[![Downloads](https://img.shields.io/github/downloads/ntduckien/NgocRongSao-Version1/total)](https://github.com/ntduckien/NgocRongSao-Version1/releases)
+
 ## System Requirements
 
 NgocRongSao requires PHP version 8.2 or higher to function properly. Please ensure that your server meets this requirement for optimal performance and security.
