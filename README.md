@@ -19,6 +19,8 @@ If you have any security concerns, need support, or wish to provide feedback, pl
 - Country: VietNam
 - Team: Light
 
+To purchase the latest update of NgocRongSao website, please contact Zalo Nguyen Duc Kien!
+
 We appreciate your respect for the creator and kindly request not to modify the author's information.
 
 ## Reporting a Vulnerability
